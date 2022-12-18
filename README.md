@@ -4,6 +4,8 @@
 
 Strikethrough Tool for marking text-fragments for the [Editor.js](https://ifmo.su/editor).
 
+Forked from yrfandrew/editorjs-strikethrough in order to update icon set references to match 2.26.x EditorJS release.
+
 ## Installation
 
 ### Install via NPM
