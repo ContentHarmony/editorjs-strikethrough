@@ -182,4 +182,4 @@ class Strikethrough {
     }
 }
 
-module.exports = Strikethrough;
+export default Strikethrough;
